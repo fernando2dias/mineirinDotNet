@@ -52,16 +52,21 @@ Trem(
 
  - atribuição de valor à variável
 
- - estrutura(s) de decisão
-
  ## Estrutura(s) de repetição
 ```
-Laco = "Uai"
+Laco/while = "Uai()"
+```
+
+## Estrutura(s) de decisão
+```
+ if = "TemBase"
 ```
 
 
- - declaração e uso de funções
-
+## Declaração e uso de funções
+```
+funcao = TremBao NomeFuncao()
+```
 
 
 1. Trem
