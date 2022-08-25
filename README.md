@@ -52,6 +52,56 @@ Trem(
 
 ```
 
+- Operador aritimetico de potencia
+
+```
+"**.**"
+
+//Prosa// Exemplo
+5**.**2
+
+```
+
+- Operador aritimetico de modulo
+
+```
+"%.%"
+
+//Prosa// Exemplo
+5%.%2
+
+```
+
+- Operador lógico de And
+
+```
+"@.@"
+
+//Prosa// Exemplo
+(a == b @.@ b==c)
+
+```
+
+- Operador lógico de Or
+
+```
+"ˆ.ˆ"
+
+//Prosa// Exemplo
+(a == b ˆ.ˆ b==c)
+```
+
+
+- Operador lógico de Not
+
+```
+"\./"
+
+//Prosa// Exemplo
+\./(a == b)
+```
+
+
 ## Declaração de variável
 
 - atribuição de valor à variável
