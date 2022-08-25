@@ -1,11 +1,13 @@
 # :bug: Linguagem: Mineirin.Net :beetle:
 
-## Facens - Engenharia da Computa
-### Disciplina de Compiladores
-Prof. André Carneiro Breda
+## Facens - Engenharia da Computação
 
-Fernando Dias Motta - RA 180016
-Kennedy Corrêa - RA 160080 
+### Disciplina de Compiladores
+- Prof. André Carneiro Breda
+
+- Fernando Dias Motta - RA 180016
+- Kennedy Corrêa - RA 160080 
+
 
 ## Função principal
 
@@ -80,14 +82,47 @@ Trem(
 ```
 
 - Operador relacional de Equal
-
+  
 ```
 "=.="
-
 //Prosa// Exemplo
 a =.= b
 ```
 
+- Operador relacional de Diferent
+```
+"\./"
+//Prosa// Exemplo
+a \./ b
+```
+
+- Operador relacional de Minor
+```
+"<.<"
+//Prosa// Exemplo
+a <.< b
+```
+
+- Operador relacional de Major
+```
+">.>"
+//Prosa// Exemplo
+a <.< b
+```
+
+- Operador relacional de Major Equal
+```
+">.="
+//Prosa// Exemplo
+a >.= b
+```
+
+- Operador relacional de Minor Equal
+```
+"<.="
+//Prosa// Exemplo
+a <.= b
+```
 
 - Operador lógico de And
 
@@ -100,28 +135,35 @@ a =.= b
 ```
 
 - Operador lógico de Or
-
+  
 ```
 "ˆ.ˆ"
-
 //Prosa// Exemplo
 (a == b ˆ.ˆ b==c)
 ```
 
 
 - Operador lógico de Not
-
 ```
-"\./"
-
+"!.!"
 //Prosa// Exemplo
-\./(a == b)
+!.!(a == b)
 ```
+
 
 
 ## Declaração de variável
 
 - atribuição de valor à variável
+```
+#intero numero1 .= 56
+
+#quebradin numero2 .= 5,2
+
+#trenzinDeChar .= "frase bem legal"
+
+#charzin .= 'a'
+
 
 ## Estrutura(s) de repetição
 
