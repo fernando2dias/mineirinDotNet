@@ -75,6 +75,10 @@ Laço/For = "QuiNemFor(;;)"
 funcao = TremBao NomeFuncao()
 ```
 
+https://blog.estilobendize.com.br/dicionario-de-mineires-guia-basico-do-sotaque-mineiro/?utm_source=adwords&utm_term=&utm_campaign=&utm_medium=ppc&hsa_tgt=&hsa_ver=3&hsa_grp=&hsa_net=adwords&hsa_cam=17126405486&hsa_ad=&hsa_kw=&hsa_mt=&hsa_acc=2042436603&hsa_src=x&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AWvGzZzsAIbJYgzvh_Y9S8app8-D7OKeWhH3sQAESPfPM0VNnISjPhoCrPsQAvD_BwE
+
+https://turismodeminas.com.br/dicas/dicionario-de-mineires/
+
 1. Trem
    Um clássico mineiro, trem pode significar praticamente qualquer coisa, objeto ou comida. Tudo pode ser um trem.
 
