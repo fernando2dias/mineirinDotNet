@@ -1,5 +1,12 @@
 # :bug: Linguagem: Mineirin.Net :beetle:
 
+## Facens - Engenharia da Computa
+### Disciplina de Compiladores
+Prof. André Carneiro Breda
+
+Fernando Dias Motta - RA 180016
+Kennedy Corrêa - RA 160080 
+
 ## Função principal
 
 - Funcao principal para iniciar um sistema escrito em Mineirin.Net.
@@ -71,6 +78,16 @@ Trem(
 5%.%2
 
 ```
+
+- Operador relacional de Equal
+
+```
+"=.="
+
+//Prosa// Exemplo
+a =.= b
+```
+
 
 - Operador lógico de And
 
