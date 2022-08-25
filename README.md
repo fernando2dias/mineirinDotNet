@@ -91,7 +91,6 @@ Trem(
 (a == b ˆ.ˆ b==c)
 ```
 
-
 - Operador lógico de Not
 
 ```
@@ -100,7 +99,6 @@ Trem(
 //Prosa// Exemplo
 \./(a == b)
 ```
-
 
 ## Declaração de variável
 
@@ -117,6 +115,7 @@ Laço/For = "QuiNemFor(;;)"
 
 ```
  if = "TemBase(<condição>)"
+ else = "TemGaioNao"
 ```
 
 ## Declaração e uso de funções
