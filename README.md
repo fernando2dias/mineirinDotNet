@@ -183,3 +183,5 @@ Laço/For = "QuiNemFor(;;)"
 ```
 funcao = TremBao NomeFuncao()
 ```
+
+gerar regex = regex101.com
