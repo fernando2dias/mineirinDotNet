@@ -132,9 +132,9 @@ a <.= b
 - Operador lógico de And
 
 ```
-"=.="
+"&.&"
 //Prosa// Exemplo
-a =.= b
+a &.& b
 ```
 
 - Operador lógico de Or
@@ -142,7 +142,7 @@ a =.= b
 ```
 "ˆ.ˆ"
 //Prosa// Exemplo
-a \./ b
+a ˆ.ˆ b
 ```
 
 - Operador lógico de Not

@@ -1,5 +1,15 @@
-40+.+50
-10-.-5
-2*.*6
+Tream(
+
+#intero numero1 .= 10
+#intero numero2 .= 5
+#intero soma
+
+soma .= numero1 +.+ numero2
+
+
+
+)
+
+
 
 
