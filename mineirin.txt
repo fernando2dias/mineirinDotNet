@@ -1,12 +1,11 @@
-Tream(
+Trem (
 
+//Prosa calcule dois numeros
 #intero numero1 .= 10
 #intero numero2 .= 5
 #intero soma
 
 soma .= numero1 +.+ numero2
-
-
 
 )
 
