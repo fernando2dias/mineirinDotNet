@@ -1,11 +1,12 @@
-Tream(
+Trem (
 
-#intero numero1 .= 10
-#intero numero2 .= 5
-#intero soma
+//Prosa calcule dois numeros
+#quebradin notaA .= 8,5
+#quebradin notaB .= 5,4
+#quebradin media .= ( notaA *.* 3,5 ) +.+ ( notaB *.* 7,5 )
 
-soma .= numero1 +.+ numero2
 
+Oia ( "Media " +.+ media )
 
 
 )
