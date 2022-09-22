@@ -6,7 +6,7 @@ Trem (
 #quebradin media .= ( notaA *.* 3,5 ) +.+ ( notaB *.* 7,5 )
 
 
-Oia( "Media " +.+ media )
+Oia ( "Media " +.+ media )
 
 
 )
