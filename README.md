@@ -9,6 +9,9 @@
 - Fernando Dias Motta - RA 180016
 - Kennedy Corrêa - RA 160080
 
+## Execução
+Executar primeiramente o notebook "lexica.ipynb"
+
 ## Função principal
 
 - Funcao principal para iniciar um sistema escrito em Mineirin.Net.
