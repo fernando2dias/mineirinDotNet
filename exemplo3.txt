@@ -1,0 +1,11 @@
+//Prosa exercício 3
+Trem (
+
+//Prosa trabalhando com texto
+#trenzinDeChar a .= "Hello"
+#trenzinDeChar b .= "World!"
+
+Oia ( "Meu texto é: " +.+ a +.+ ' ' +.+ b )
+
+
+)

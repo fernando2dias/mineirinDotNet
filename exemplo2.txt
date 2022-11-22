@@ -1,0 +1,18 @@
+//Prosa exercício 2
+Trem (
+
+//Prosa calculadora
+#intero num1 .= 8,5
+#intero num2 .= 5,4
+#quebradin soma .= num1 +.+ num2
+#quebradin sub .= num1 -.- num2
+#quebradin div .= num1 /./ num2
+#quebradin multi .= num1 *.* num2
+
+Oia ( "Soma" +.+ soma )
+Oia ( "Subtração" +.+ sub )
+Oia ( "Divisão" +.+ div )
+Oia ( "Multiplicação" +.+ multi )
+
+
+)
